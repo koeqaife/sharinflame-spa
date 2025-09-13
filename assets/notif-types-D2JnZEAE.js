@@ -1,0 +1,1 @@
+import{d as i,N as o}from"./index-CFDL-CVp.js";const r=i(()=>{o.registerType("default-notification",{icon:"sym_r_notifications",classes:"default-notification",position:"top-right",actions:[{icon:"sym_r_close",round:!0,handler:()=>{}}]}),o.registerType("error-notification",{icon:"sym_r_error",classes:"error-notification",position:"top-right"})});export{r as default};
