@@ -1,0 +1,1 @@
+import{a,d as s,u as e,b as n,i as r,c,e as l,f,g as u}from"./index-C4T2bIgH.js";const $=[r,c,l,f,u];let t;const o=a.create({baseURL:n,timeout:15e3});async function m(){await Promise.all($.map(i=>i(o,t)))}const g=s(({app:i})=>{i.config.globalProperties.$axios=a,i.config.globalProperties.$api=o,t=e(),m()});export{o as api,g as default};
